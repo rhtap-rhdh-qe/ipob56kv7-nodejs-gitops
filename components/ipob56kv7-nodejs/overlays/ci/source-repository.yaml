@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ipob56kv7-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ipob56kv7-nodejs
